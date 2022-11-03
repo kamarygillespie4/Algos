@@ -1,0 +1,20 @@
+{
+  "name": "hacker-rank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simpleArraySum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamarygillespie4/Hacker-Rank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamarygillespie4/Hacker-Rank/issues"
+  },
+  "homepage": "https://github.com/kamarygillespie4/Hacker-Rank#readme"
+}
