@@ -10,5 +10,5 @@ function simpleArraySum(ar) {
 
 const jimmy = simpleArraySum([1, 4, 5, 2, 9]);
 console.log(jimmy);
-const karen = simpleArraySum(6, 24, 17, 3, 9);
+const karen = simpleArraySum([6, 24, 17, 3, 9]);
 console.log(karen);
